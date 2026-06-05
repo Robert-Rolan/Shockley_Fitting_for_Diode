@@ -18,5 +18,7 @@ dist/
 *.csv
 !control.csv
 
+examples/materials/1060-hl.mdf
+
 fitted_curve.csv
 fit_parameters.json
